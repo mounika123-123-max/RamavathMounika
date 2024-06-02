@@ -49,6 +49,6 @@ By following this structured approach, the project aims to provide valuable insi
 The project objectives are aligned with the above social impact aspects and i hope the solution will help the government, transport and road safety organizations to take data driven decisions and mitigate risks related to road accidents in India.
 
 ### DATASET LINK- **https://drive.google.com/drive/folders/1JgIj3AFm1tDbNgZGCgkXgbli_DlczaSC?usp=sharing**
-## PROJECT DOCUMENTATION- **https://docs.google.com/presentation/d/1ccqdGKQBueg_1RS9_YZpTWrDpvq3aL18/edit?usp=sharing&ouid=116957262108338220971&rtpof=true&sd=true**
+## PROJECT DOCUMENTATION- **https://drive.google.com/file/d/1rBc5C47OhM3UbvXyNmFNdKKalg2BS-wf/view?usp=sharing**
 ## PROJECT DEMONSTRATION- **https://drive.google.com/file/d/1FgzQOPOl5Yi0XKHmvnjVnoX2mRFZ672c/view?usp=sharing**
 
